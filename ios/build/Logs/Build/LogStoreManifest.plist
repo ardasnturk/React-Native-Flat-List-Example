@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>AD515136-E50B-4851-8F6A-03BA4AFF1980</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AD515136-E50B-4851-8F6A-03BA4AFF1980.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>flatListExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>flatListExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project flatListExample with scheme flatListExample and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>563152179.74427998</real>
+			<key>timeStoppedRecording</key>
+			<real>563152205.53446996</real>
+			<key>title</key>
+			<string>Building project flatListExample with scheme flatListExample and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AD515136-E50B-4851-8F6A-03BA4AFF1980</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
